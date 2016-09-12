@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Ryan Hobson
+2. I am interested in the data science program because I love statistics. Unfortunately I didn't take a stats class as an undergrad until my senior year. So I didn't know I liked it until too late. I then remembered I liked it while getting my MBA. I work with data in my job and figured I should finally invest some time studying a subject I love and improving my skill set for work.
+3. I took my first programming courses during my MBA. I learned VBA and took one course that used R. I fell in love with R and a few years after my MBA I got a certificate in in through the University of Washington. I haven't used it as work as much as I'd like however. 
+4. I've taken 3 statistics courses between undergrad and graduate school. I do use it at work as I work with data almost every day. But I use very basic stats as I don't feel comfortable enough with the sophisticated approaches.
+5.  I have experience with R mainly through the certificate program?
+6.  I hope to become a little more comfortable with the statistical concepts. The certificate taught me the R language but blew through concepts.
+7.  No. Just excited to learn and hope to apply this at work so it sticks.
